@@ -1,0 +1,21 @@
+.menuitem {
+    background-color: #eee;
+    padding: 20px;
+    border-radius: 10px;
+    color: #333;
+    display: block;
+    min-width: 300px;
+    margin: 5px;
+}
+
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.menuitem:hover {
+    color: #00bceb;
+    transition: all 0.3s ease;
+}

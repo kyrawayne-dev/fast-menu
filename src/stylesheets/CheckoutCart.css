@@ -1,0 +1,13 @@
+.checkoutcart {
+    list-style-type: none !important;
+    margin: 0 100px 50px 100px;
+}
+
+.checkoutcart-item {
+    border: 2px solid #333;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 2px;
+    color: #333;
+    background-color: #eee;
+}
